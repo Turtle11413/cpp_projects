@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vertex.vert</file>
+        <file>lines.frag</file>
+        <file>points.frag</file>
+        <file>circle_point.geom</file>
+        <file>square_point.geom</file>
+        <file>lines.geom</file>
+    </qresource>
+</RCC>
